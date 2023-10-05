@@ -1,6 +1,6 @@
 const quizdata=[
     {
-    question:"which language runs in a web browser",
+    question:"which language runs in a web browser?",
         a:"Java",
         b:"C++",
         c:"JavaScript",
@@ -22,6 +22,9 @@ const quizdata=[
         c:"Hello Text markup Language",
         d:"bla bla bla",
         correct: "a",
+    },
+    {
+        question: "Welcome to the quiz section."
     }
 ]
 const questionE1=document.getElementById('question');
